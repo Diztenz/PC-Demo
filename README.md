@@ -1,3 +1,3 @@
-# PD Demo
+# PC Demo
 
 Some description.
